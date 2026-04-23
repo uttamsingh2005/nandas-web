@@ -1,2 +1,0 @@
-# nandas-web
-team nandas
